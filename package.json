@@ -2,6 +2,7 @@
   "name": "ecom",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://jagans1128-web.github.io/Tailwind",
   "type": "module",
   "scripts": {
     "dev": "vite",
